@@ -512,8 +512,8 @@ color_status_error = color_error
 # Font Family
 # ------------------------------------------------------------------------------
 
-font_family = os.environ.get('ZYNTHIAN_UI_FONT_FAMILY', "Audiowide")
-# font_family = "Helvetica" #=> the original ;-)
+# font_family = os.environ.get('ZYNTHIAN_UI_FONT_FAMILY', "Audiowide")
+ font_family = "Helvetica" #=> the original ;-)
 # font_family = "Economica" #=> small
 # font_family = "Orbitron" #=> Nice, but too strange
 # font_family = "Abel" #=> Quite interesting, also "Strait"
